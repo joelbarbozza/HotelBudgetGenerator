@@ -11,3 +11,7 @@ ser meu primeiro projeto em Python que utilo apenas para fins acadêmicos.
 
 ## Instalação
 
+Basta baixar todos os arquivos deste diretorio e abrir em sua IDE de preferência.
+Bibliotecas utilizadas que serão necessárias intalação de seus respectivos pacotes:
+
+
