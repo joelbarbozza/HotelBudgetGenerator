@@ -14,4 +14,12 @@ ser meu primeiro projeto em Python que utilo apenas para fins acadêmicos.
 Basta baixar todos os arquivos deste diretorio e abrir em sua IDE de preferência.
 Bibliotecas utilizadas que serão necessárias intalação de seus respectivos pacotes:
 
+> tkinter
+> 
+> fpdf
+> 
+> tkcalendar
+> 
+> PIL
 
+Acredito que as demais bibliotecas sejam built-in.
